@@ -1996,7 +1996,9 @@ h1, h2, h3, h4, h5, h6 {
   background-image: -webkit-linear-gradient(90deg, #f45622 0%, #f53e54 100%);
   background-image: -ms-linear-gradient(90deg, #f45622 0%, #f53e54 100%);
 }
-
+.banner-area{
+  background-image: url("../img/bg-bg.jpg") !important;
+}
 .p1-gradient-color, .single-blog:hover h4 {
   background: -moz-linear-gradient(90deg, #f45622 0%, #f53e54 100%);
   background: -webkit-linear-gradient(90deg, #f45622 0%, #f53e54 100%);
